@@ -35,3 +35,7 @@ Before running the application, make sure you have the following:
 
     The service will be available at `http://localhost:8081/server.php`.
 
+## Results
+<p align="center">
+  <img src="Img/soap.PNG" alt="soap">
+</p>
